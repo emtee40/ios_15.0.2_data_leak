@@ -46,15 +46,17 @@
 #### Although this PII leak was "unintentional," I am making the argument that this could have been prevented if a proper code review had been conducted. Code comments dating back to 2015 that contain reference links, should not be taken as valid 6 years later in 2021 unless properly vetted. In this case, this URL lead to a URI that contained PII of over 10,000 users. 
 
 ## UPDATE
-#### As expected, people are making the argument that this is not Apple's issue this is an issue with ISO.org, and there is truth in both...
+#### As expected, people are trying to make the argument that this is not Apple's issue, this is an issue with ISO.org, and there is truth in both...but this heavily lives with Apple
 
-1. ISO.org did not write the code that references their URL endpoint the author has been affiliated with Apple for years. 
-2. ISO.org likely does not even know about their URL endpoint being used as a reference link since they did not provide the code, or the inclusive file packaged into the DMG, later the ipsw
-3. ISO.org does have an issue to fix, but this may be something that they are already aware of and are actively fixing, this does not give Apple the right to publish code without authenticating the URL endpoints they are referencing especially if the URL endpoint is 5 years dated and has no direct object reference to the table listed in the iso3166.tab
+1. ISO.org did not write the code that references their URL endpoint that leads to a URI PII leak, the author Paul Eggert has been affiliated with Apple for years. 
+2. ISO.org likely does not even know about their URL endpoint being used as a reference link since they did not provide the code, or the inclusive file packaged into the DMG, later the ipsw.
+3. ISO.org does have an issue to fix, but this may be something that they are already aware of, and could possibly already be fixing, this does not give Apple the right to publish code without authenticating the URL endpoints they are referencing, especially if the URL endpoint is 5 years dated and has no direct object reference to the table listed in the iso3166.tab. 
+
+
 
 ## Purposeful Disclosure
 
-#### My intent by disclosing this is to bring awareness to data privacy concerns, human rights violations as it pertains to data privacy issues, and have not just Apple be more conscience of their actions or inactions, but for everyone to really look at the state of our privacy and security. 
+#### My intent by disclosing this is to bring awareness to data privacy concerns, human rights violations as it pertains to data privacy issues, and have not just Apple be more conscience of their actions or inactions, but for everyone to really look at the state of our privacy and security. I refuse to submit vulnerabilites to Vulnerability Disclosure Programs for any company due to NDAs that bind me to silence even if the issue is not addressed and if I speak out about the issue not being fixed, this NDA threatens my freedom. I have been burned more times than I can count. I was the #1 hacker in the USA for the last 90 days on Hackerone.com, and I was kicked out for speaking up about a data leak that was ignored, but yet fixed behind my back.
 
 > I am not personally looking for a bug bounty, but if one is awarded I would like 100% of the bounty to donated to CharityWater.org 
 
