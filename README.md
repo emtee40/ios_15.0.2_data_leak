@@ -51,6 +51,7 @@
 1. ISO.org did not write the code that references their URL endpoint that leads to a URI PII leak, the author Paul Eggert has been affiliated with Apple for years. 
 2. ISO.org likely does not even know about their URL endpoint being used as a reference link since they did not provide the code, or the inclusive file packaged into the DMG, later the ipsw.
 3. ISO.org does have an issue to fix, but this may be something that they are already aware of, and could possibly already be fixing, this does not give Apple the right to publish code without authenticating the URL endpoints they are referencing, especially if the URL endpoint is 5 years dated and has no direct object reference to the table listed in the iso3166.tab. 
+4. The data that is referenced in the iso3166.tab is paid data from ISO.org, reference: https://www.iso.org/standard/72482.html , and as I mentioned in my Twitter feed...Apple is backdooring this data, bypassing ISO.org's paywall, and by backdooring the data is knowingly exposing this URL endpoint
 
 
 
