@@ -56,7 +56,12 @@
 
 ## Purposeful Disclosure
 
-#### My intent by disclosing this is to bring awareness to data privacy concerns, human rights violations as it pertains to data privacy issues, and have not just Apple be more conscience of their actions or inactions, but for everyone to really look at the state of our privacy and security. I refuse to submit vulnerabilites to Vulnerability Disclosure Programs for any company due to NDAs that bind me to silence even if the issue is not addressed and if I speak out about the issue not being fixed, this NDA threatens my freedom. I have been burned more times than I can count. I was the #1 hacker in the USA for the last 90 days on Hackerone.com, and I was kicked out for speaking up about a data leak that was ignored, but yet fixed behind my back.
+#### My intent by disclosing this is to bring awareness to data privacy concerns, human rights violations as it pertains to data privacy issues, and have not just Apple be more conscience of their actions or inactions, but for everyone to really look at the state of our privacy and security. 
+
+I refuse to submit vulnerabilites to Vulnerability Disclosure Programs for any company due to NDAs that bind me to silence even if the issue is not addressed and if I speak out about the issue not being fixed, this NDA threatens my freedom. I have been burned more times than I can count. 
+
+I was the #1 hacker in the USA for the last 90 days on Hackerone.com, and I was kicked out for speaking up about a data leak that was ignored, but yet fixed behind my back.
+source: https://hackerone.com/leaderboard?year=2021&quarter=3
 
 > I am not personally looking for a bug bounty, but if one is awarded I would like 100% of the bounty to donated to CharityWater.org 
 
