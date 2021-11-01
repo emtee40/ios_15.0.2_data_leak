@@ -1,6 +1,11 @@
 
 
-
+# UPDATE: iOS 15.1 STILL CONTAINS THIS EVERYTHING DESCRIBED IN HERE. THIS IS AN ACTIVE LEAK.
+# I HAVE EMAILED APPLE,AND ISO.ORG...NO RESPONSE
+# I HAVE SENT APPLE SUPPORT A DIRECT MESSAGE VIA TWITTER NO RESPONSE
+# I HAVE SENT ISO.ORG A DIRECT MESSAGE VIA TWITTER NO RESPONSE
+# MEDIA HAVE REACHED OUT TO APPLE AND ISO.ORG NO RESPONSE
+# ------------------------------------------------------------------------------------------------------
 # iOS 15.0.2 Data Leak
 ## 10,000+ ISO.org username, first name, last name, and emails leaked as a result of sloppy QA by Apple
 ### Author: Jonathan Scott @jonathandata1
