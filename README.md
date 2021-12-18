@@ -1,7 +1,13 @@
 
 
 
-# UPDATE: iOS 15.2 Still contains everything described here
+# UPDATE (12/18/21): ISO.org has fixed the data leak
+
+> I'm glad the data leak has been fixed, but they did not acknowledge my efforts or even have the decency to respond to my emails, dms, or tweets. 
+
+> I wrote a medium article on a lot more specific details of this incident.
+
+https://jonathandata1.medium.com/the-dark-side-of-apple-allowing-a-10-000-user-data-leak-8cf31d504bb5
 
 ## iOS Firmware Leaking 10,000+ Emails, Usernames, First, Last Names on ISO.org due to lack of QA when embedding open source libraries 
 
